@@ -41,8 +41,6 @@ To login to the Umbraco backoffice use these credentials:
 - Username: admin@admin.com
 - Password: adminadmin
 
-### Read more:
-Go to [adolfi.dev](https://adolfi.dev) if you want to read more Umbraco and Unit Testing articles.
 
 ### Umbraco v10.4.0
 Find an upgraded version in [UmbracoTenDemoSite](UmbracoTenDemoSite).
